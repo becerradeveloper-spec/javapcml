@@ -1,0 +1,7 @@
+<pcml version="4.0">
+    <program name="XOR610B" path="/QSYS.LIB/CABLEPRD.LIB/XOR610B.PGM">
+        <data name="PMRTN" type="char" length="1" usage="inputoutput" />
+        <data name="PMSTRRCV" type="char" length="16000" usage="inputoutput" />
+        <data name="RTNSTR" type="char" length="999999" usage="inputoutput" />
+    </program>
+</pcml>
